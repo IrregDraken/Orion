@@ -2,7 +2,6 @@
 
 > **The Engineering Workspace That Understands Your Code.**
 
-::: {align="center"}
 ![Orion Banner](assets/banner.png)
 
 **AI-native. Context-aware. Built for modern software engineering.**
