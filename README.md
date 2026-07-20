@@ -221,7 +221,6 @@ MIT License
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ## ORION
 
 **The Engineering Workspace That Understands Your Code.**
